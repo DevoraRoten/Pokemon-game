@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PokemonOptions.vue components Debe hacer match con el snapshop 1`] = `
+<h3>Pokemon Options</h3>
+<div class="options-container">
+  <ul>
+    <li>bulbasaur</li>
+    <li>ivysaur</li>
+    <li>venusaur</li>
+    <li>charmander</li>
+  </ul>
+</div>
+`;
